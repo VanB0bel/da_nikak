@@ -1,0 +1,3 @@
+180 
+speedart 0 
+dmgart 0 
