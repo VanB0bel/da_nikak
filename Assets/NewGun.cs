@@ -5,14 +5,14 @@ using System;
 
 public class NewGun : MonoBehaviour
 {
-    public List<GameObject> bullets = new List<GameObject>(); 
+    public List<GameObject> bullets = new List<GameObject>(); //to chto mi zaspaunili
     public GameObject player; 
     public List<float> cooldown;
     public float cddva = 2.5f; 
     public float ttime = 0f; 
     public float ttimedva = 0f; 
     public List<float> speed_bullet; 
-    public List<GameObject> missile; 
+    public List<GameObject> missile; // to chto mi spavnim
 
 
     public GameObject missiledva;
